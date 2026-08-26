@@ -1,7 +1,7 @@
 {
   "name": "copilot-workshop-js",
   "version": "1.0.0",
-  "description": "GitHub Copilot 실무 활용 교육 실습 저장소",
+  "description": "차량 견적 계산 프로그램",
   "type": "module",
   "private": true,
   "engines": {
